@@ -48,10 +48,10 @@ Given that this course is focused on open source development, and given that stu
 Detailed grading information will be discussed later in the term.  Below is a breakdown of how students will be graded, and [this blog post](http://blog.humphd.org/vocamus-680/?p=680) gives more details about the rationale:
 
 * 60% - Project Deliverables (e.g., code, Pull Requests, documentation), marked in terms of quality, quantity, process, etc.
-    * 10% - [Release 0.1](release-0.1.md) due Fri, Sept 25
-    * 20% - Release 0.2 due Sat, Oct 31
-    * 15% - Release 0.3 due Fri, Nov 20
-    * 15% - Release 0.4 due Fri, Dec 11
+    * 10% - [Release 0.1](https://github.com/Seneca-CDOT/topics-in-open-source-2020/wiki/release-0.1) due Fri, Sept 25
+    * 20% - [Release 0.2](https://github.com/Seneca-CDOT/topics-in-open-source-2020/wiki/release-0.2) due Sat, Oct 31
+    * 15% - [Release 0.3](https://github.com/Seneca-CDOT/topics-in-open-source-2020/wiki/release-0.3) due Fri, Nov 20
+    * 15% - [Release 0.4](https://github.com/Seneca-CDOT/topics-in-open-source-2020/wiki/release-0.4) due Fri, Dec 11
 * 40% - Labs: There will be approximately 10 labs, each worth 4%.
 
 Students must satisfactorily complete all project deliverables and labs to pass the course.
